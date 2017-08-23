@@ -12,13 +12,11 @@ public class Client {
 	
 	public static void runClient() {
 		//init Gui
-		try {
-			Gui dialog = new Gui();
+		 
+		
+			Gui dialog = new Gui(); 
 			dialog.setDefaultCloseOperation(JDialog.DISPOSE_ON_CLOSE);
 			dialog.setVisible(false);
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
 		
 		
 		
