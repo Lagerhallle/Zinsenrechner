@@ -1,0 +1,11 @@
+[14:21:49] [Client thread/INFO]: Setting user: Player37
+[14:21:49] [Client thread/INFO]: (Session ID is token:0:Player37)
+[14:21:50] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:21:51] [Client thread/INFO]: Reloading ResourceManager: Default
+[14:21:51] [Client thread/ERROR]: Couldn't initialize twitch stream
+[14:21:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:21:51] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:21:51] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:21:51] [Thread-6/INFO]: OpenAL initialized.
+[14:21:52] [Sound Library Loader/INFO]: Sound engine started
+[14:21:52] [Client thread/INFO]: Created: 512x512 textures-atlas

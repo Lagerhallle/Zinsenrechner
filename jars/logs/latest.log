@@ -1,35 +1,25 @@
-[12:57:57] [Client thread/INFO]: Setting user: Player757
-[12:57:57] [Client thread/INFO]: (Session ID is token:0:Player757)
-[12:57:58] [Client thread/INFO]: LWJGL Version: 2.9.4
-[12:57:59] [Client thread/INFO]: Reloading ResourceManager: Default
-[12:57:59] [Client thread/ERROR]: Couldn't initialize twitch stream
-[12:57:59] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[12:57:59] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[12:57:59] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[12:57:59] [Thread-5/INFO]: OpenAL initialized.
-[12:57:59] [Sound Library Loader/INFO]: Sound engine started
-[12:58:02] [Client thread/INFO]: Created: 512x512 textures-atlas
-[12:58:13] [Server thread/INFO]: Starting integrated minecraft server version 1.8.8
-[12:58:13] [Server thread/INFO]: Generating keypair
-[12:58:13] [Server thread/INFO]: Preparing start region for level 0
-[12:58:14] [Server thread/INFO]: Preparing spawn area: 12%
-[12:58:15] [Server thread/INFO]: Preparing spawn area: 29%
-[12:58:16] [Server thread/INFO]: Preparing spawn area: 49%
-[12:58:17] [Server thread/INFO]: Preparing spawn area: 71%
-[12:58:18] [Server thread/INFO]: Preparing spawn area: 94%
-[12:58:18] [Server thread/INFO]: Changing view distance to 12, from 10
-[12:58:18] [Server thread/INFO]: Player757[local:E:39d7b15c] logged in with entity id 108 at (574.5, 64.0, 169.5)
-[12:58:18] [Server thread/INFO]: Player757 joined the game
-[12:58:34] [Server thread/INFO]: Saving and pausing game...
-[12:58:34] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
-[12:58:34] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
-[12:58:34] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
-[12:58:39] [Server thread/INFO]: Stopping server
-[12:58:39] [Server thread/INFO]: Saving players
-[12:58:39] [Server thread/INFO]: Saving worlds
-[12:58:39] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
-[12:58:39] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
-[12:58:39] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
-[12:58:40] [Client thread/INFO]: Stopping!
-[12:58:40] [Client thread/INFO]: SoundSystem shutting down...
-[12:58:41] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[14:21:49] [Client thread/INFO]: Setting user: Player37
+[14:21:49] [Client thread/INFO]: (Session ID is token:0:Player37)
+[14:21:50] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:21:51] [Client thread/INFO]: Reloading ResourceManager: Default
+[14:21:51] [Client thread/ERROR]: Couldn't initialize twitch stream
+[14:21:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:21:51] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:21:51] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:21:51] [Thread-6/INFO]: OpenAL initialized.
+[14:21:52] [Sound Library Loader/INFO]: Sound engine started
+[14:21:52] [Client thread/INFO]: Created: 512x512 textures-atlas
+[14:26:03] [Client thread/INFO]: Stopping!
+[14:26:03] [Client thread/INFO]: SoundSystem shutting down...
+[14:26:03] [Client [14:26:03] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:26:04] [Client thread/INFO]: Reloading ResourceManager: Default
+[14:26:04] [Client thread/ERROR]: Couldn't initialize twitch stream
+[14:26:04] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:26:04] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[14:26:04] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:26:04] [Thread-5/INFO]: OpenAL initialized.
+[14:26:05] [Sound Library Loader/INFO]: Sound engine started
+[14:26:06] [Client thread/INFO]: Created: 512x512 textures-atlas
+[14:26:33] [Client thread/INFO]: Stopping!
+[14:26:33] [Client thread/INFO]: SoundSystem shutting down...
+[14:26:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
