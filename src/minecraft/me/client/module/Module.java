@@ -1,29 +1,20 @@
 package me.client.module;
 
-import com.ibm.icu.util.ULocale.Category;
 
 public class Module {
 
 	private int bind;
 	private String name;
-	private Category cat;
 	private boolean status;
 	
 	
-	public Module(String name, int bind, Category cat) {
+	public Module(String name, int bind) {
 		
 		this.name = name;
 		this.bind = bind;
-		this.cat = cat;	
 	}
 	
-	
-	public Module(String name, Category cat) {
-		
-		this.name = name;
-		this.cat = cat;	
-	}
-	
+
 	
 	
 	public String getName() {
@@ -35,9 +26,6 @@ public class Module {
 		
 	}
 	
-	public Category getCategory() {
-		return cat;
-	}
 	
 	
 	public boolean getStatus() {

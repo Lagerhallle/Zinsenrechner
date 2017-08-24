@@ -16,7 +16,7 @@ public class Client {
 		
 			Gui dialog = new Gui(); 
 			dialog.setDefaultCloseOperation(JDialog.DISPOSE_ON_CLOSE);
-			dialog.setVisible(false);
+			dialog.setVisible(true);
 		
 		
 		
